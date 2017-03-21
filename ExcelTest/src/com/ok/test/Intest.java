@@ -25,6 +25,7 @@ public class Intest {
 	        queue.add("3");
 	        queue.add("4");
 	        queue.add("5");
+	        queue.add("6");
 	        System.out.println("队列中的元素是:"+queue);
 	        //弹出元素
 	        queue.poll();
