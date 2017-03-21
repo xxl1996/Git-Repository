@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="ExcelTest"
+  id="myeclipse.1468292852501"
+  context-root="/ExcelTest"
+  j2ee-spec="5.0"
+  archive="ExcelTest.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
